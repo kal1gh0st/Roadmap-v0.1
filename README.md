@@ -22,21 +22,6 @@ This is a proof of concept to encrypt files using a unitypackage.
 
 !!!I assume no liability for property damage and personal injury thereby!!!
 
-# Support Me
-
-This Concept is made by Mei-chan, to support my Work:
-
-<p align="center">
- <a href="https://www.paypal.me/meichan968" target="_blank"><img alt="Paypal" src="https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge"></a>
-  <img alt="BTC" src="https://img.shields.io/badge/BTC-1APsMH6sARzX8h3GPW4d4NLnf8JUkP7SzQ-blue?style=for-the-badge">
-</p>
-
-or
-
-Follow me on [Github](https://github.com/Neko-Oneechan)
-
-For any support send me a e-mail: `admin@astronyia.xyx`
-
 # General information
 
 ### Rules about this project
